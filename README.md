@@ -65,9 +65,9 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This project is a simple login page created using HTML and CSS. It provides a basic interface for users to input their username and password to log in.
 
-**[your_project__name]** is a...
+**[your_project__name]** is "LOGIN PAGE"
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -102,9 +102,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[User-friendly interface]**
+- **[Responsive design]**
+- **[Basic form validation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
