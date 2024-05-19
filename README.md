@@ -149,7 +149,7 @@ The collaborators of this project - GROUP 2.
 
 👤 **Muse Hadush**
 
-- GitHub: [@MuseHadush](https://github.com/MuseHadush)
+- GitHub: [@MuseHadush](https://github.com/Musie480)
 
 👤 **Esla Solomon**
 
